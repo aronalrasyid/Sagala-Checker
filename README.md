@@ -22,3 +22,12 @@
 $ git clone https://github.com/nako48/Sagala-Checker/
 </br>
 $ cd Sagala-Checker
+# Status API </br>
+AMAZON [AKTIF] </br>
+APPLE-CHECKER [CLOSE] </br>
+CC-CHECKER [CLOSE] </br>
+INDOMOG-CHECKER [AKTIF] </br>
+MYTELKOMSEL [AKTIF] </br>
+PHD-CHECKER [AKTIF] </br>
+SHELL-CHECKER [AKTIF] </br>
+
